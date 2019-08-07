@@ -3,7 +3,7 @@ function takeANumber(array, name) {
   array.push(name)
   return "Welcome, " + name + ". You are number " + array.length + " in line."
 };
-//interview code along
+//Interview code along
 var customercount=0
 function takeANumber2 (name) {
 customercount++
